@@ -1,0 +1,9 @@
+{
+  "name": "eslint-config-praneet",
+  "version": "1.0.26",
+  "description": "ESLint config based in recommended best practices",
+  "main": "index.js",
+  "repository": "https://github.com/praneetc/eslint-config-merit",
+  "author": "praneetc",
+  "license": "MIT"
+}
